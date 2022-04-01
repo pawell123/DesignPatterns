@@ -1,4 +1,5 @@
 // Strategy
+// Simple Duck example
 
 #include "MallardDuck.hpp"
 #include "MuteQuack.hpp"
